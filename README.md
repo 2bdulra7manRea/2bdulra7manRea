@@ -22,7 +22,7 @@ Nodejs, Nestjs, TypeScript, TypeORM, Mongodb , Swagger
 
 ## Talkly Social Platform web application
 
-With Talky you can keep in touch with your friends and colleagues, families and share common interests and thoughts and photos .
+With Talkly you can keep in touch with your friends and colleagues, families and share common interests and thoughts and photos
 and you can network and communicate with new people via chats or creating and sharing content.
 also reacting to their contents.
 
