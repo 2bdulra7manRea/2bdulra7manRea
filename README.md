@@ -20,8 +20,11 @@ Nodejs, Nestjs, TypeScript, TypeORM, Mongodb , Swagger
 
 
 
-## Social Platform web application
+## Talkly Social Platform web application
 
+With Talky you can keep in touch with your friends and colleagues, families and share common interests and thoughts and photos .
+and you can network and communicate with new people via chats or creating and sharing content.
+also reacting to their contents.
 
 Frontend Technologies :
 React, React-Query, Axios, JavaScript ,Material-UI, Bootstrap, CSS, HTML5
