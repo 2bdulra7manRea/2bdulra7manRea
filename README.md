@@ -7,23 +7,18 @@
 
 # Projects
 
-
-
-## Delivery Management System
+## Delivery Management System :
 application that ensures the optimization of deliveries to your customers
 you can manage your drivers and schedule deliveries, and collections to enhance the productivity of the delivery team
 
-Backend Technologies:
-Nodejs, Nestjs, TypeScript, TypeORM, Mongodb , Swagger
+### Link:
+https://github.com/2bdulra7manRea/Delivery-system
 
 
-
-
-
-## Talkly Social Platform web application
+## Talkly Social Platform web application :
 Talkly is a web application that allows users to keep in touch with their friends, colleagues, and families. Users can share common interests and thoughts, photos, and create and share content. They can also network and communicate with new people via chats or by reacting to their content.
 
-### link 
+### Link: 
 https://github.com/2bdulra7manRea/talkly-web-application
 
 
