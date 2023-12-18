@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abdelrahman Mosa
-- I am a software engineer focusing on web development
-- 👀 I’m interested in software engineering, javascript development and distributed systems engineering, open source projects..
+-👀 I am a Software Engineer with a strong interest in Applied AI engineering. My background includes experience in both data engineering and software engineering, with a keen interest in distributed systems and large-scale applications.
 - 📫 reach me through my email abdelrahman.mosa84@gmail.com ...
 
 
