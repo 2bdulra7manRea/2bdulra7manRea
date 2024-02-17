@@ -1,6 +1,25 @@
-- 👋 Hi, I’m Abdelrahman
--👀 I am a Software Engineer with a strong interest in Applied AI engineering. My background includes experience in both data engineering and software engineering, with a keen interest in distributed systems and large-scale applications.
-- 📫 reach me through my email abdelrahman.mosa84@gmail.com ...
+<h1>
+  <span style="display:inline-block" class="animated-text">Hi, I am Abdelrahman</span>
+</h1>
+
+<style>
+  @keyframes colorChange {
+    0% { color: red; }
+    25% { color: orange; }
+    50% { color: yellow; }
+    75% { color: green; }
+    100% { color: blue; }
+  }
+  
+  .animated-text {
+    animation: colorChange 5s infinite; /* Change the duration as needed */
+  }
+</style>
+
+
+<p>
+  I am a Software Engineer with a strong interest in Applied AI engineering. My background includes experience in both data engineering and software engineering, with a keen interest in distributed systems and large-scale applications.
+</p>
 
 
 # Projects
