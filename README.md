@@ -20,7 +20,7 @@ My proficiency in Python extends to web development, scripting, and data analysi
 As a front-end enthusiast, I specialize in developing user interfaces with React. I have experience in crafting interactive and responsive web applications.
 
 
-                                                                 ## 📊 GitHub Overview
+                                                               📊 GitHub Overview
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=2bdulra7manRea.2bdulra7manRea)
