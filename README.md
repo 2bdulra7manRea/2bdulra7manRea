@@ -7,6 +7,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2bdulra7manRea&layout=compact&theme=radical)
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=2bdulra7manRea&color=green)
+
 
 ## About Me
 
