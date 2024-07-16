@@ -1,5 +1,9 @@
 # Welcome to My GitHub Profile 👋
 
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=2bdulra7manRea&show_icons=true&theme=radical)
+
+
 ## About Me
 
 I'm Abdelrahman, a passionate Software Engineer with expertise in building applications using Node.js, Python, and React. I enjoy tackling challenging problems and creating efficient, scalable, and maintainable solutions.
