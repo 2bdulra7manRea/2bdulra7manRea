@@ -37,3 +37,14 @@ As a front-end enthusiast, I specialize in developing user interfaces with React
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=voice-text-insight-AI-frontend&theme=radical)](https://github.com/2bdulra7manRea/voice-text-insight-AI-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=ml-random-forest-credit-card-fraud-detection&theme=radical)](https://github.com/2bdulra7manRea/ml-random-forest-credit-card-fraud-detection)
 
+
+## 🌱 Interests
+
+### Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Interested-orange?style=for-the-badge)
+
+### Blockchain
+![Blockchain](https://img.shields.io/badge/Blockchain-Interested-blue?style=for-the-badge)
+
+
+
