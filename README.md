@@ -31,7 +31,10 @@ As a front-end enthusiast, I specialize in developing user interfaces with React
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2bdulra7manRea&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=parking-space&theme=dark)](https://github.com/2bdulra7manRea/parking-space)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=parking-space&theme=dark)](https://github.com/2bdulra7manRea/parking-space) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=Delivery-system&theme=dark)](https://github.com/2bdulra7manRea/Delivery-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=talkly-web-application&theme=dark)](https://github.com/2bdulra7manRea/talkly-web-application)
+
 
 
 ## 🚀 Projects
