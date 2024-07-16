@@ -22,6 +22,8 @@ As a front-end enthusiast, I specialize in developing user interfaces with React
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=2bdulra7manRea.2bdulra7manRea)
 
+![GitHub Profile Summary Cards](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=repo-name&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=2bdulra7manRea&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2bdulra7manRea&layout=compact&theme=radical&count_private=true)
@@ -32,8 +34,11 @@ As a front-end enthusiast, I specialize in developing user interfaces with React
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=parking-space&theme=dark)](https://github.com/2bdulra7manRea/parking-space) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=Delivery-system&theme=dark)](https://github.com/2bdulra7manRea/Delivery-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=tasks-management&theme=dark)](https://github.com/2bdulra7manRea/tasks-management)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=talkly-web-application&theme=dark)](https://github.com/2bdulra7manRea/talkly-web-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=ml-random-forest-credit-card-fraud-detection&theme=radical)](https://github.com/2bdulra7manRea/ml-random-forest-credit-card-fraud-detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=voice-text-insight-AI-frontend&theme=radical)](https://github.com/2bdulra7manRea/voice-text-insight-AI-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2bdulra7manRea&repo=ml-random-forest-credit-card-fraud-detection&theme=radical)](https://github.com/2bdulra7manRea/ml-random-forest-credit-card-fraud-detection)
 
 
 
