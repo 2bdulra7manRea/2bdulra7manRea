@@ -43,8 +43,4 @@ As a front-end enthusiast, I specialize in developing user interfaces with React
 ### Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Interested-orange?style=for-the-badge)
 
-### Blockchain
-![Blockchain](https://img.shields.io/badge/Blockchain-Interested-blue?style=for-the-badge)
-
-
 
