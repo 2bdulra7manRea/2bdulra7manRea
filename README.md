@@ -7,14 +7,16 @@ I'm Abdelrahman, a passionate Software Engineer with expertise in building appli
 
 ## 🛠️ Skills
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+As a front-end enthusiast, I specialize in developing user interfaces with React. I have experience in crafting interactive and responsive web applications.
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 I have hands-on experience in developing server-side applications using Node.js. From building RESTful APIs to handling asynchronous operations, I'm well-versed in the Node.js ecosystem.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 My proficiency in Python extends to web development, scripting, and data analysis. I've leveraged Python to build robust and versatile applications.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-As a front-end enthusiast, I specialize in developing user interfaces with React. I have experience in crafting interactive and responsive web applications.
+
 
 
 ## 📊 GitHub Overview
