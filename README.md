@@ -1,5 +1,8 @@
  # Welcome to My GitHub Profile 👋
 
+I am a software engineer with a strong background in software development and a T-shaped skill set. My core strength lies in backend web development, complemented by hands-on experience in data engineering and cross-functional collaboration.
+ 
+
 ## 📊 GitHub Overview
 
 
